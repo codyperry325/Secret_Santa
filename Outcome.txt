@@ -1,0 +1,7 @@
+Here is the list of secret santas: 
+Santa ---------> Recipient
+Name1 ---------> NameX
+Name2 ---------> Name4
+Name3 ---------> Name1
+Name4 ---------> Name2
+NameX ---------> Name3
